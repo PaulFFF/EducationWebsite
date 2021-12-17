@@ -1,0 +1,49 @@
+h1
+{color: rgb(23, 0, 128);
+    font-size: 85px;
+
+}
+
+p{
+    color: rgb(128, 0, 0);
+font-size: 30px;
+
+}
+
+.centeredtext{
+    text-align: center;
+
+
+}
+
+.rightimage{
+    float:right;
+}
+
+.imagebox{
+    display: flex;
+}
+
+.small{
+    font-size: 30px;
+}
+
+.right{
+    text-align: right;
+}
+
+#menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.alignright {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.middle{
+    display: flex;
+    justify-content: center;
+}
